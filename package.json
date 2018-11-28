@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-rocketmq-style",
+  "version": "1.0.0",
+  "description": "RocketMQ Node.js SDK's ESLint config.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XadillaX/eslint-config-rocketmq-style.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "XadillaX <i@2333.moe>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/XadillaX/eslint-config-rocketmq-style/issues"
+  },
+  "homepage": "https://github.com/XadillaX/eslint-config-rocketmq-style#readme",
+  "dependencies": {
+    "eslint-config-xadillax-style": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
