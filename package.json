@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rocketmq-style",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "RocketMQ Node.js SDK's ESLint config.",
   "main": "index.js",
   "scripts": {},
